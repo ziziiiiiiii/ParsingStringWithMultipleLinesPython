@@ -1,0 +1,15 @@
+Example test case 1:
+ ___     ___
+    |   |   |
+    |   |   |
+    |___|   |______
+
+Output: 10100
+
+Example test case 2:
+     ______
+    |      |
+    |      |
+ ___|      |___
+
+Output: 0110
